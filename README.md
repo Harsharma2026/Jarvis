@@ -1,4 +1,4 @@
-# JARVIS - Voice-Activated AI Assistant (100% FREE!)
+# JARVIS - Voice-Activated AI Assistant
 
 A personal AI assistant with voice interaction and code editor integration. JARVIS can write code, create projects, and manage files - all through voice commands!
 
